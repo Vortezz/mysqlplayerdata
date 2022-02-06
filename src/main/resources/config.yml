@@ -1,0 +1,23 @@
+# Database config part
+ddb:
+  # Database host
+  host: localhost
+  # Database user password
+  pass: root
+  # Database user username
+  user: root
+  # Database name
+  name: inventories
+  # Database host port
+  port: 3306
+  # Table name
+  tablename: inventories
+# Autosync config part
+# \/ Need restart to be applied \/
+autosync:
+  # true if you want autosync
+  activated: false
+  # Time before the first autosync (In seconds)
+  first: 60
+  # Time between autosync (In seconds)
+  between: 60

@@ -1,0 +1,8 @@
+main: dev.vortezz.mpd.Main
+name: MysqlPlayerData
+author: Vortezz
+version: 1.0
+commands:
+  msave:
+  mload:
+  mreload:
