@@ -65,5 +65,5 @@ autosync:
 
 ## Support
 
-You have a problem ? Feel free to open an issue [here]()<br>
+You have a problem ? Feel free to open an issue [here](https://github.com/Vortezz/mysqlplayerdata/issues)<br>
 You can also join my Discord [here](https://vortezz.dev/discord)
